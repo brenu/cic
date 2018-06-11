@@ -1,0 +1,56 @@
+body{
+	background-color: rgb(96,169,223);
+}
+div.noticias{
+	background-color: #FFFFFF;
+	display: block;
+	box-shadow: 1px 1px 4px black;
+	position: relative;
+	width: 50%;
+	left: 25%;
+	padding-bottom: 30%;
+	padding-top: 0px;
+}
+div.not1{
+	border: 1px solid rgb(96,169,223);
+    width: 42%;
+    float: left;
+}
+div.not1 h2,img,p{
+	padding-left: 10px;
+}
+div.not2{
+    border: 1px solid rgb(96,169,223);
+    width: 42%;
+    clear: right;
+    float: left;
+    padding-right: 20%;
+}
+div.not3{
+	border: 1px solid rgb(96,169,223);
+    width: 50%;
+    clear: both;
+    float: left;
+}
+div.not4{
+	border: 1px solid rgb(96,169,223);
+    width: 50%;
+    float: right;
+}
+
+div.not1 img{
+	width: 33%;
+}
+div.not2 img{
+	width: 33%;
+	left: 100px;
+}
+div.not3 img{
+	width: 33%;
+}
+div.not4 img{
+	width: 33%;
+}
+h2{
+	font-size: 12pt;
+}
