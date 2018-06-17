@@ -51,6 +51,12 @@ div.not3 img{
 div.not4 img{
 	width: 33%;
 }
+h1{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px #707070;
+	margin: 60px;
+}
 h2{
 	font-size: 12pt;
 }
